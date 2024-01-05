@@ -148,7 +148,7 @@
     <div class=" flex flex-col md:flex-row gap-2 justify-center items-center w-full">
         
         <div class="w-full flex flex-col gap-5 justify-center items-center ">
-            <p class=" text-white opacity-50">Hover the icons for more details</p>
+            <p class=" text-white opacity-50 truncate">Hover the icons for more details</p>
             <p class="text-center text-white">Focused on SvelteKit, Tailwind CSS, Supabase, and Firebase, I excel in crafting efficient and visually appealing web applications. Bonus proficiency in ReactJS and Go enhances my versatility in development.</p>
             <div class="flex gap-5 mt-5 ">
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" class="transition-all hover:scale-105 [&>*]:pointer-events-none " use:popup={javasciptToolTip}><img loading="lazy" src={js} alt="" class="w-20 [&>*]:pointer-events-none" /></a>
