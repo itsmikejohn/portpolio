@@ -144,7 +144,7 @@
 </div>
 					
 
-<footer class="min-h-[20dvh] bg-slate-800 flex justify-center p-10">
+<footer class="min-h-[20dvh] bg-slate-800 flex justify-center p-5">
     <div class=" flex flex-col md:flex-row gap-2 justify-center items-center w-full">
         
         <div class="w-full flex flex-col gap-5 justify-center items-center ">
